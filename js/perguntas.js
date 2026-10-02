@@ -1,4 +1,4 @@
-```javascript
+
 export const perguntas = [
     {
         enunciado: "O que você acha da IA?",
